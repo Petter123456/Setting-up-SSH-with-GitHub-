@@ -1,0 +1,12 @@
+Same origin policy ---> Under the policy, a web browser permits scripts contained in a first web page to access data in a second web page, but only if both web pages have the same origin. An origin is defined as a combination of URI scheme, host name, and port number.
+
+cross origin resource sharing (cors) ----> (craigslist) ---> Cross-Origin Resource Sharing (CORS) is a mechanism that uses additional HTTP headers to let a user agent gain permission to access selected resources from a server on a different origin (domain) than the site currently in use. A user agent makes a cross-origin HTTP request when it requests a resource from a different domain, protocol, or port than the one from which the current document originated.
+
+
+Lambda = An anonymous function
+
+
+
+----------------------------Javascript-----------------------
+
+callback function - block fo code that executes when an event occurs
